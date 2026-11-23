@@ -13,7 +13,7 @@ An interactive sales and customer demographic dashboard built in **Microsoft Exc
 ---
 
 ### 🎯 Objective
-Analyze customer demographic and commuting data to uncover which customer segments are most likely to purchase a bike—helping inform targeted marketing and inventory planning.
+Analyze customer demographic and commuting data to uncover which customer segments are most likely to purchase a bike helping inform targeted marketing and inventory planning.
 
 ---
 
