@@ -3,7 +3,7 @@
 An interactive sales and customer demographic dashboard built in **Microsoft Excel** to identify purchasing patterns across customer income, age groups, and commute distances.
 
 > **Project Context & Status:** Created as a hands-on **Data Analytics Practice Project** focusing on end-to-end spreadsheet cleaning, Pivot Table modeling, and interactive dashboard design.  
-> **Current Release:** **Version 1 (Initial Dashboard Release)** — Core data cleaning, Pivot Tables, and initial visual exploration are complete. Additional customer segmentation, KPI cards, and deeper trend metrics will be added in future iterations.
+> **Note:** This project was built as part of my hands-on **Data Analyst practice** in Microsoft Excel, focusing on data cleaning, Pivot Table modeling, and interactive dashboard design. It is currently in **Version 1 (v1)** and will continue to be expanded as I practice deeper segmentation and KPI reporting.
 
 ---
 
